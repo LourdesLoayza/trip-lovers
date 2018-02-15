@@ -1,5 +1,10 @@
-## Producto final: Red social trip-lovers
-***
+# Trip Lovers
+Trip Lovers es una red social que busca conectar a todas las personas que aman viajar y desean conocer el Perú. Si lo tuyo es viajar y aún no conoces el Perú, anímate aquí encontrarás toda la información que necesitas
+
+![trip-lovers](assets/docs/vista1.jpg)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 #### 1. Objetivo:
 Desarrollar una red social para aquellos usuarios que quieren viajar.
@@ -10,15 +15,11 @@ Desarrollar una red social para aquellos usuarios que quieren viajar.
 
 Los motivos para viajar son incalculables y dependen de cada persona. En ocasiones se viaja para romper con la rutina, para tomar distancia de lo cotidiano, para conocer y experimentar nuevas culturas, para ver “ese” templo o monumento que tanto te ha hecho suspirar al admirarlo en fotos. También se viaja para conocer gente, para conocerse a una misma, para conocer los propios límites e incluso para desdibujarlos y trazarlos “un poquito más allá”. Se viaja por la adrenalina, por amor al viaje, por placer a lo desconocido y por miedo a lo desconocido. A veces se viaja simplemente porque sí y en resumen esa es la razón de ser de nuestra red social Trip Lovers.
 
-A continuación te dejamos algunos datos de Trip Lovers que te serán utiles a la hora de navegar por nuestra red social:
+A continuación, te dejamos algunos datos de Trip Lovers que te serán útiles a la hora de navegar por nuestra red social:
 
-* En Trip lovers nos gusta tener muchos amigos y es por eso que a la hora de ingresar nuestra web te pedira registrarte en caso no lo estes y para aquellos que ya lo hayan hecho les pedirá hacer un login.
+* En Trip lovers nos gusta tener muchos amigos y es por eso que a la hora de ingresar nuestra web te pedirá registrarte en caso no lo estés y para aquellos que ya lo hayan hecho les pedirá hacer un login.
 
-![trip-lovers](assets/docs/vista1.jpg)
-![trip-lovers](assets/docs/vista2.jpg)
-![trip-lovers](assets/docs/vista3.jpg)
-
-* Los contenidos de Trip Lovers cuentan con mucha información de nuestro amado país ya que es una red social orientada a fomentar el turismo interno desde las experiencias de cada uno de sus habitantes o personas que les apasione conocer y viajar por el Perú. Si eres un peruano y te gusta viajar Trip lovers es la red social para ti. Si eres extranjero pero llevas un corazón peruano y quieres conocer nuestro país Trip lovers te brindará todos los datos necesarios para que termines animándote a venir, aquí podrás buscar muchos datos importantes como:
+* Trip Lovers cuentan con mucha información acerca de los destinos que puedes visitar en el Perú ya que es una red social orientada a fomentar el turismo interno desde las experiencias de cada uno de los viajeros que les apasione conocer y viajar por el Perú. Si eres un peruano o extranjero aquí podrás encontrar todos los datos necesarios para que termines animándote a viajar por este país para ello te ofrecemos algunos datos importantes como:
 
 Datos Novedades
 ![trip-lovers](assets/docs/vista5.jpg)
@@ -37,7 +38,7 @@ Datos compartir fotos y experiencias de viajes
 Datos de ciudades y países
 ![trip-lovers](assets/docs/vista10.jpg)
 
-* ¿Te gusto lo hemos hecho para tí? Que esperas animate y registrate en trip lovers
+* ¿Te gusto lo hemos hecho para ti? Qué esperas anímate y regístrate en Trip Lovers
 
 #### 3. Recursos utilizados
 * HTML5
