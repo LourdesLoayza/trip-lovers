@@ -1,10 +1,5 @@
-# Trip-lovers
-Trip-lovers es una red social que busca conectar a todas las personas que aman viajar y desean conocer el Perú. Si lo tuyo es viajar y aún no conoces el Perú, anímate aquí encontrarás toda la información que necesitas.
-
-![image](https://user-images.githubusercontent.com/30554218/36261473-7e66ca2c-1232-11e8-8be8-cce2ff72f387.png)
-
-## Desarrollado para 
-[Laboratoria](http://laboratoria.la)
+## Producto final: Red social trip-lovers
+***
 
 #### 1. Objetivo:
 Desarrollar una red social para aquellos usuarios que quieren viajar.
@@ -55,3 +50,5 @@ Datos de ciudades y países
 * Jymma Mogollon
 * Lourdes Loayza.
 * Melyna Bisley.
+
+
