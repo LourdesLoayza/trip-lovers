@@ -1,7 +1,7 @@
 # Trip Lovers
 Trip Lovers es una red social que busca conectar a todas las personas que aman viajar y desean conocer el Perú. Si lo tuyo es viajar y aún no conoces el Perú, anímate aquí encontrarás toda la información que necesitas
 
-![trip-lovers](assets/docs/vista1.jpg)
+![image](https://user-images.githubusercontent.com/30554218/36395758-b859f494-1588-11e8-86a6-fcce54c27555.png)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
